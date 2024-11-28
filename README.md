@@ -1,2 +1,3 @@
-# rust_arith
-Arithmetic circuit compiler in Rust
+# Rust Arithmetic
+
+Arithmetic circuit compiler in Rust.
